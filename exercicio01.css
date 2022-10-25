@@ -1,0 +1,22 @@
+p
+{
+	text-align: justify;
+	text-indent: 1.5cm;
+}
+
+.header
+{
+	overflow: hidden;
+	background-color: white;
+	padding: 20px 900px;
+	position: fixed;
+	float: right;
+	top: 0;
+}
+
+.header a
+{
+	font-size: 20px;
+	text-align: center;
+	text-indent: center;
+}
