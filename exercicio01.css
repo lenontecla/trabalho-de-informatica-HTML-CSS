@@ -14,20 +14,18 @@ h1
 {
 	overflow: hidden;
 	background-color: white;
-	padding: 20px 900px;
+	padding: 20px 550px;
 	position: fixed;
-	float: right;
 	top: 0;
 	width: 100%;
 	border: solid;
 	padding-top: 30px;
 	padding-bottom: 30px;
 	border-width: thin;
-	top: 5px;
 	
 	background-image: url("computador.png");
 	background-repeat: no-repeat;
-	background-position: 30px 15px;
+	background-position: 30px 22px;
 }
 
 h2
@@ -48,8 +46,7 @@ h1
 {
 	font-size: 20px;
 	text-align: center;
-	color:  #AA0000;
-	
+	color:  #AA0000;	
 }
 
 img
